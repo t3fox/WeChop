@@ -1,2 +1,2 @@
-# WeChose
+# WeChop
 Angular CMS 
